@@ -56,7 +56,7 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , [ ESP] La Liga Tv Bar - 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
@@ -116,10 +116,10 @@ acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 720 (Opcion 3)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
+acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 720 (Opcion 4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN LaLiga2 HD", [ ESP] DAZN LaLiga 2 - 1080 Multiaudio
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
@@ -134,7 +134,7 @@ acestream://df98650743f24a245c44cdf2851e57078f4c487a
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 720", [ ESP] Liga de campeones - 720
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 2 - 1080", [ ESP] Liga de Campeones 02 - 1080
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
@@ -161,7 +161,7 @@ acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 7 - 720", [ ESP] Liga de Campeones 07 - 720
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 8 - 720", [ ESP] Liga de Campeones 08 - 720
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
