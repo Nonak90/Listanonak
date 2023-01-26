@@ -131,7 +131,7 @@ acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://18f6a6d2f12af51f1ce4f6c9af0752fa0ff74c5b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 720", [ ESP] Liga de campeones - 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
@@ -194,13 +194,13 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Dazn" tvg-id="DAZN 3", [ ESP] DAZN 3 - 720
-Acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a 
+Acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4", [ ESP] DAZN 4 - 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4", [ ESP] DAZN 4 - 720
-Acestream://
+Acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
 acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
@@ -290,7 +290,7 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 acestream://1104426e14b649eb23fee16698768544285de478
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", [ ESP] Eurosport 1 - 1080
-acestream://40da37534656efcc6179c1b7693335d5e8212e43
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 720", [ ESP] Eurosport 1 - 720
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
