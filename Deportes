@@ -308,7 +308,7 @@ acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="Varios" tvg-id="GOL HD", [ ESP] Gol Play - 1080
-acestream://49c35606668ebf7a895434ec4c9243a163d87718
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="Varios" tvg-id="Real Madrid TV - 1080", [ ESP] Real Madrid Television - 1080
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
