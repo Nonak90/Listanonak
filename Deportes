@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", 020 La 1 
-acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="Movistar Plus+ HD", [ ESP] Movistar PLUS+
 acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
 
@@ -238,7 +235,7 @@ acestream://d9297d3576c05551c08e0fe5bd85a793361a3cca
 acestream://704e51760a644bc90aa22269bf84139947a0414a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 720", [ ESP] Eurosport 1 - 720
-acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
+acestream://704e51760a644bc90aa22269bf84139947a0414a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", [ ESP] Eurosport 2 - 1080
 acestream://f8e861155c2a1959f8313b19f49d52e414313203
